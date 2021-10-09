@@ -1,7 +1,8 @@
 .header {
     height: 80px;
-    background-color: gold ;
+    background-color: #f6ae2d;
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    text-decoration: none;
 }

@@ -1,6 +1,10 @@
 .nav {
  border: 1px solid;
- width: 300px;
+ width: 350px;
  display: flex;
  justify-content: space-around;
+ font-family: Palatino Linotype;
+ font-variant: small-caps;
+ font-size: larger;
+ text-decoration: none;
 }
