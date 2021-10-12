@@ -1,0 +1,27 @@
+.projectBlock{
+    background: darkkhaki;
+    width: 400px;
+}
+.container {
+
+}
+
+.projects{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 190px;
+    background: url('https://cutewallpaper.org/21/dark-gray-background-texture/Dark-grey-background.-grunge-texture-background-License-.jpg');
+}
+.button {
+    height: 30px;
+}
+.description {
+    text-align: left;
+}

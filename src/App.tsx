@@ -3,6 +3,7 @@ import './App.css';
 import Header from "./header/Header";
 import Main from "./main/Main";
 import Skills from "./skills/Skills";
+import MyProjects from "./projects/MyProjects";
 
 function App() {
     return (
@@ -10,6 +11,8 @@ function App() {
             <Header />
             <Main />
             <Skills />
+            <MyProjects />
+            <FreeWork/>
         </div>
     );
 }

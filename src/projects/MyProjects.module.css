@@ -1,0 +1,18 @@
+.projectBlock {
+    height: 100vh;
+    background: url('https://phonoteka.org/uploads/posts/2021-04/1618460092_50-p-fon-dlya-saita-temnii-50.jpg');
+}
+.projects{
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    /*align-items: center;*/
+    /*flex-wrap: wrap;*/
+}
+.container {
+
+}
+.title {
+
+}
