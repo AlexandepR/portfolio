@@ -1,0 +1,24 @@
+.contactBlock {
+    background: #343232;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    border: 1px solid;
+    height: 400px;
+    justify-content: space-between;
+}
+.textarea {
+height: 200px;
+}
+.spanContact{
+    text-align:center;
+    padding-bottom: 50px;
+    font-size: 30px;
+}
