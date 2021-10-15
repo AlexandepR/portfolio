@@ -6,7 +6,7 @@ import Skill from "./skill/Skill";
 function Skills() {
     return (
         <div className={style.skillsBlock}>
-            <div className={`${styleContainer.container} ${style.skillsContainer}`}>
+            <div className={style.skillsContainer}>
                 <h2 className={style.title}>Skills</h2>
                 <div className={style.skills}>
                 <Skill title={'JS'} description={'TypeScript builds on top of JavaScript. First, you write the TypeScript code. Then, you compile the TypeScript code into plain JavaScript code using a TypeScript compiler.'}/>

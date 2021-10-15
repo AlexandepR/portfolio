@@ -5,20 +5,21 @@ import Project from "./project/Project";
 function MyProjects() {
     return (
         <div className={style.projectBlock}>
+            <div className={style.projectContainer}>
                 <h3 className={style.title}> My projects </h3>
                 <div className={style.projects}>
                 <Project
-                    url={'string'}
+                    urlImg={'string'}
                     projectName={'First Project'}
-                    description={' project'}
+                    description={'Description 1'}
                 />
                 <Project
-                    url={'string'}
+                    urlImg={'string'}
                     projectName={'Second Project'}
-                    description={' project'}
+                    description={'Description 2'}
                 />
                 </div>
-
+            </div>
         </div>
     )
 }

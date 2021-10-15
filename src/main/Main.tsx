@@ -12,7 +12,6 @@ function Main() {
                 </div>
                 <div className={style.photo}></div>
             </div>
-
         </div>
     );
 }

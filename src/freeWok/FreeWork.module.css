@@ -1,6 +1,6 @@
 .FreeWorkBlock {
-    height: 400px;
-    background: #535f5d;
+    height: 35vh;
+    background: rgb(68, 65, 65);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +9,7 @@
 .WorkBlock{
     text-align:center;
     border: 1px solid;
-    background: darkgray;
+    background: #a09898;
     height: 150px;
     width: 800px;
     font-size: 30px;
@@ -21,4 +21,11 @@
 .button {
     width: 100px;
     height: 35px;
+}
+.title {
+    border: 1px solid;
+    border-radius: 6px;
+    color: bisque;
+    text-align: center;
+    font-size: 30px;
 }

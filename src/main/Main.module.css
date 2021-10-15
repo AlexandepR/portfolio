@@ -1,22 +1,29 @@
 .mainBlock {
-    height: 60vh;
-    background: url('https://demo2wpopal.b-cdn.net/x-street/wp-content/uploads/revslider/slide_home1/slide-home1-1-1.jpg');
-}
+    height: 100vh;
+    background: url('https://get.wallhere.com/photo/concrete-texture-dark-background-abstract-1930471.jpg') no-repeat;
 
+}
+.container {
+    border: 3px solid;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
 .text {
     width: 300px;
     height: 200px;
     background-color: #535f5d;
     font-family: Palatino Linotype;
+    box-shadow: 0px 20px 40px rgba(241, 243, 246, 0.29);
 }
 .photo {
     width: 300px;
     height: 400px;
     background: url('https://i.pinimg.com/736x/88/40/b1/8840b12dc2eb7d3c9d636f5a8ca63d04.jpg') ;
-    box-shadow: 0px 20px 40px rgb(23, 1, 1);
+    box-shadow: 0px 20px 40px rgba(241, 243, 246, 0.29);
 }
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
+

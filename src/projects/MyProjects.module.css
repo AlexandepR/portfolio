@@ -1,16 +1,34 @@
 .projectBlock {
-    height: 100vh;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background: url('https://phonoteka.org/uploads/posts/2021-04/1618460092_50-p-fon-dlya-saita-temnii-50.jpg');
 }
-.projects{
-    height: 300px;
+.projectContainer {
+    border: 1px solid #505050;
     display: flex;
-    justify-content: space-around;
-    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
     flex-wrap: wrap;
+    width: 70%;
+
 }
 .title {
+    width: 25%;
+    height: 13%;
+    border: 1px solid;
+    border-radius: 6px;
     color: bisque;
     text-align: center;
     font-size: 30px;
 }
+.projects{
+    border: 1px solid #0118a3;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+

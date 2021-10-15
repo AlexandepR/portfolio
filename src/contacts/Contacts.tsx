@@ -5,7 +5,7 @@ function Contacts () {
     return (
         <div className={style.contactBlock}>
             <div className={style.contact}>
-                <span className={style.spanContact}>Contact</span>
+                <span className={style.titleContact}>Contacts</span>
         <input/>
         <input/>
     <textarea className={style.textarea}/>

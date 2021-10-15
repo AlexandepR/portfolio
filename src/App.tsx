@@ -15,9 +15,7 @@ function App() {
             <Main />
             <Skills />
             <MyProjects />
-            <FreeWork
-                description={'I look for work'}
-            />
+            <FreeWork />
             <Contacts />
             <Footer />
         </div>

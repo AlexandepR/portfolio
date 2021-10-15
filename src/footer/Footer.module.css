@@ -4,9 +4,11 @@
     align-items: center;
     flex-direction: column;
     justify-content: space-around;
+    background: url('https://st3.depositphotos.com/4114823/13030/i/950/depositphotos_130302206-stock-photo-texture-of-bark-wood-use.jpg');
 }
 
 .footer {
+    background-color: rgba(83, 95, 93, 0.85);
     height: 15vh;
     width: 40vh;
     border: 1px solid;

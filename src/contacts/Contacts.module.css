@@ -1,6 +1,6 @@
 .contactBlock {
     background: #343232;
-    height: 500px;
+    min-height: 40vh;
     display: flex;
     justify-content: center;
     border: 1px solid;
@@ -17,8 +17,13 @@
 .textarea {
 height: 200px;
 }
-.spanContact{
+.titleContact{
     text-align:center;
+    border: 1px solid;
+    border-radius: 6px;
+    color: bisque;
+    text-align: center;
+    font-size: 30px;
     padding-bottom: 50px;
     font-size: 30px;
 }
