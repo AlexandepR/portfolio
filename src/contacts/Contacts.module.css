@@ -18,11 +18,13 @@
 height: 200px;
 }
 .titleContact{
+    margin: 40px auto;
+    width: 130px;
+    height: 10px;
     text-align:center;
     border: 1px solid;
     border-radius: 6px;
     color: bisque;
-    text-align: center;
     font-size: 30px;
     padding-bottom: 50px;
     font-size: 30px;

@@ -11,7 +11,6 @@ function FreeWork() {
                 <div className={style.WorkBlock}>
                 <span className={style.title}>I look for work</span>
                 <button className={style.button}>Text me</button>
-
                     </div>
             </div>
     )

@@ -4,8 +4,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    /*padding: 20px;*/
+    /*box-sizing: border-box;*/
 }
 .skillsContainer {
+    padding: 20px;
+    box-sizing: border-box;
     border: 1px solid;
     display: flex;
     align-items: center;
@@ -17,11 +21,12 @@
 .title {
     border: 1px solid;
     border-radius: 6px;
-    width: 17%;
+    width: 130px;
     height: 10%;
     color: bisque;
     text-align: center;
     font-size: 30px;
+
 }
 
 .skills {
