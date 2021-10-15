@@ -20,5 +20,3 @@ function Skills() {
 }
 
 export default Skills;
-
-// ${style.skillsContainer}

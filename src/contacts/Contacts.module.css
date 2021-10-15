@@ -4,11 +4,11 @@
     display: flex;
     justify-content: center;
     border: 1px solid;
+    align-items: center;
 }
 .contact {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     width: 500px;
     border: 1px solid;
     height: 400px;

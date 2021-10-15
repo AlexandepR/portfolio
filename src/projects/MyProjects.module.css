@@ -7,12 +7,10 @@
     display: flex;
     justify-content: space-around;
     text-align: center;
-    /*align-items: center;*/
-    /*flex-wrap: wrap;*/
-}
-.container {
-
+    flex-wrap: wrap;
 }
 .title {
-
+    color: bisque;
+    text-align: center;
+    font-size: 30px;
 }

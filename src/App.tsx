@@ -6,6 +6,7 @@ import Skills from "./skills/Skills";
 import MyProjects from "./projects/MyProjects";
 import FreeWork from "./freeWok/FreeWork";
 import Contacts from "./contacts/Contacts";
+import Footer from "./footer/Footer";
 
 function App() {
     return (
@@ -18,6 +19,7 @@ function App() {
                 description={'I look for work'}
             />
             <Contacts />
+            <Footer />
         </div>
     );
 }
